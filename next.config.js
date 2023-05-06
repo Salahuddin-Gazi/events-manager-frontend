@@ -4,6 +4,7 @@ const nextConfig = {
   images: {
     loader: "cloudinary",
     domains: ["res.cloudinary.com"],
+    path: "",
   },
 };
 
