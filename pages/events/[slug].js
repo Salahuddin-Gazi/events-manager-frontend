@@ -1,7 +1,7 @@
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Layout from "@/components/Layout";
-import EventMap from "@/components/EventMap";
+// import EventMap from "@/components/EventMap";
 import { API_URL } from "@/config";
 import styles from "@/styles/Event.module.css";
 import Link from "next/link";
